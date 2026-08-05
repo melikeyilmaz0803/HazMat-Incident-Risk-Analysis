@@ -3,7 +3,7 @@
 ## Project Overview
 This project analyzes hazardous material (HazMat) incident data using SQL to identify risk patterns, common causes, severity trends, and improvement opportunities.
 
-The analysis focuses on EHS (Environmental, Health, and Safety) performance indicators to support data-driven safety improvements and preventive actions.This project analyzes sales data using SQL to identify business trends, customer behavior, and key performance indicators.
+The analysis focuses on EHS (Environmental, Health, and Safety) performance indicators to support data-driven safety improvements and preventive actions. This project analyzes HazMat incident data using SQL to identify risk patterns, root causes, incident trends, severity levels, and key safety improvement opportunities.
 
 ## Database
 

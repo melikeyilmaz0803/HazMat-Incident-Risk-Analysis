@@ -1,12 +1,13 @@
-# SQL Sales Analysis Project
+# HazMat Incident Risk Analysis
 
 ## Project Overview
+This project analyzes hazardous material (HazMat) incident data using SQL to identify risk patterns, common causes, severity trends, and improvement opportunities.
 
-This project analyzes sales data using SQL to identify business trends, customer behavior, and key performance indicators.
+The analysis focuses on EHS (Environmental, Health, and Safety) performance indicators to support data-driven safety improvements and preventive actions.This project analyzes sales data using SQL to identify business trends, customer behavior, and key performance indicators.
 
 ## Database
 
-The project database includes tables related to customers, products, orders, and sales transactions.
+The project database contains HazMat incident records including incident locations, root causes, severity levels, material types, corrective actions, and monthly incident trends.
 
 ## SQL Skills Used
 
@@ -33,6 +34,6 @@ This project answers business questions such as:
 
 ## Project Files
 
-- `database.sql` - Database creation and sample data
-- `analysis.sql` - SQL analysis queries
-- `Results.md` - Query results and business insights
+- `database.sql` - Database creation and HazMat incident dataset
+- `analysis.sql` - SQL queries used for risk analysis
+- `Results.md` - Analysis results, EHS insights, and actionable recommendations

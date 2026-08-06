@@ -1,8 +1,7 @@
 # HazMat Incident Risk Analysis
 
 ## Dashboard Preview
-
-![HazMat Dashboard](Dashboard Screenshot.png)
+![HazMat Dashboard](HazMat-Dashboard-Screenshot.png)
 
 ## Project Overview
 This project analyzes hazardous material (HazMat) incident data using SQL to identify risk patterns, common causes, severity trends, and improvement opportunities.
